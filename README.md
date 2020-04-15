@@ -6,7 +6,7 @@ Try to analyze the anchored price for state-level and county-level in U.S. from 
 - Medicaid enrollment population
 - Medicare enrollment population
 ### 1.1 Population census from Census.gov
-2018 County Population Totals [Link](https://www.census.gov/data/tables/time-series/demo/popest/2010s-counties-detail.html#par_textimage_1383669527). ***This file is too large that can not pushed into github. Please download it and unzip it in the data folder***
+2018 County Population Totals [Link](https://www.census.gov/data/tables/time-series/demo/popest/2010s-counties-detail.html#par_textimage_1383669527). ***This file is too large to upload into github. Please download it and unzip it in a new folder called 'additional_data' which is paralleling with root folder***
 
 ## 2 Physician Fee Schedule Info
 * Medicaid
