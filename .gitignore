@@ -1,0 +1,9 @@
+data/
+*.seed
+*.log
+*.csv
+*.xlsx
+*.dat
+*.out
+*.pid
+*.gz
