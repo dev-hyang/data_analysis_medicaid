@@ -8,7 +8,7 @@ You can download the data from this [link](https://drive.google.com/open?id=1Xca
 - Medicaid enrollment population
 - Medicare enrollment population
 #### Population census from Census.gov
-2018 County Population Totals [Link](https://www.census.gov/data/tables/time-series/demo/popest/2010s-counties-detail.html#par_textimage_1383669527). ***This file is too large to upload into github. Please download it and unzip it in a new folder called 'additional_data' which is paralleling with root folder***
+2018 County Population Totals [Link](https://www.census.gov/data/tables/time-series/demo/popest/2010s-counties-detail.html#par_textimage_1383669527). ***This file is too large to upload into github. Please download it and unzip it in the root folder***
 
 ### Physician Fee Schedule Info
 * Medicaid
