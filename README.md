@@ -2,7 +2,7 @@
 Our vision is to set up anchor prices for physicians or patients’ reference on different medical procedure services around the demographic area in the United States. First, we have collected all data sources to compute the state level anchor procedure service prices for 51 states in the United States. Later on, we have discussed two special cases on state Indiana and Connecticut on the county level anchor prices.
 
 ## Our Data Overview
-You can download the data from this [link](https://drive.google.com/open?id=1XcaQlt55ZHMsAuHijB1IbPLidXndG4ou). ***This file is too large to upload into github. Please download it and unzip it in the root folder***
+You can download the data from this [link](https://drive.google.com/open?id=1XcaQlt55ZHMsAuHijB1IbPLidXndG4ou). ***Some of the data files are too large to upload into github. Please download it and unzip it in the root folder***
 ### Population Data
 - Population census
 - Medicaid enrollment population
