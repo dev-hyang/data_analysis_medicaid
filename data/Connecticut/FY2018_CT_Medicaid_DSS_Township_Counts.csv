@@ -1,0 +1,1938 @@
+﻿township,program,count
+Andover,CADAP,0
+Andover,CHCPE,0
+Andover,CHIP,32
+Andover,Medicaid,461
+Andover,MSP,117
+Andover,SAGA,6
+Andover,SAGA Funeral,0
+Andover,SNAP,211
+Andover,Social Work Services,0
+Andover,State Supplement,6
+Andover,TFA,14
+Ansonia,CADAP,12
+Ansonia,CHCPE,27
+Ansonia,CHIP,234
+Ansonia,Medicaid,"7,809"
+Ansonia,MSP,"1,200"
+Ansonia,SAGA,68
+Ansonia,SAGA Funeral,7
+Ansonia,SNAP,"4,287"
+Ansonia,Social Work Services,7
+Ansonia,State Funded Medical,0
+Ansonia,State Supplement,81
+Ansonia,TFA,328
+Ashford,CHCPE,5
+Ashford,CHIP,44
+Ashford,Medicaid,"1,018"
+Ashford,MSP,180
+Ashford,SAGA,7
+Ashford,SAGA Funeral,0
+Ashford,SNAP,391
+Ashford,Social Work Services,113
+Ashford,State Funded Medical,0
+Ashford,State Supplement,15
+Ashford,TFA,26
+Avon,CADAP,0
+Avon,CHCPE,21
+Avon,CHIP,62
+Avon,Medicaid,"1,598"
+Avon,MSP,509
+Avon,SAGA,17
+Avon,SAGA Funeral,6
+Avon,SNAP,390
+Avon,Social Work Services,0
+Avon,State Funded Medical,5
+Avon,State Supplement,25
+Avon,TFA,14
+Barkhamsted,CHCPE,6
+Barkhamsted,CHIP,27
+Barkhamsted,Medicaid,533
+Barkhamsted,MSP,119
+Barkhamsted,SAGA,0
+Barkhamsted,SNAP,171
+Barkhamsted,State Supplement,8
+Barkhamsted,TFA,6
+Beacon Falls,CADAP,0
+Beacon Falls,CHCPE,9
+Beacon Falls,CHIP,42
+Beacon Falls,Medicaid,949
+Beacon Falls,MSP,245
+Beacon Falls,SAGA,8
+Beacon Falls,SNAP,365
+Beacon Falls,State Funded Medical,0
+Beacon Falls,State Supplement,11
+Beacon Falls,TFA,33
+Berlin,CADAP,10
+Berlin,CHCPE,40
+Berlin,CHIP,158
+Berlin,Medicaid,"2,698"
+Berlin,MSP,"1,092"
+Berlin,SAGA,27
+Berlin,SAGA Funeral,7
+Berlin,SNAP,"1,095"
+Berlin,Social Work Services,7
+Berlin,State Funded Medical,0
+Berlin,State Supplement,71
+Berlin,TFA,88
+Bethany,CADAP,0
+Bethany,CHCPE,8
+Bethany,CHIP,39
+Bethany,Medicaid,603
+Bethany,MSP,146
+Bethany,SAGA,5
+Bethany,SNAP,159
+Bethany,Social Work Services,0
+Bethany,State Funded Medical,0
+Bethany,State Supplement,13
+Bethany,TFA,6
+Bethel,CADAP,0
+Bethel,CHCPE,33
+Bethel,CHIP,237
+Bethel,Medicaid,"3,684"
+Bethel,MSP,775
+Bethel,SAGA,14
+Bethel,SAGA Funeral,0
+Bethel,SNAP,"1,066"
+Bethel,Social Work Services,0
+Bethel,State Funded Medical,0
+Bethel,State Supplement,41
+Bethel,TFA,42
+Bethlehem,CADAP,0
+Bethlehem,CHCPE,5
+Bethlehem,CHIP,33
+Bethlehem,Medicaid,549
+Bethlehem,MSP,153
+Bethlehem,SAGA,5
+Bethlehem,SNAP,156
+Bethlehem,State Funded Medical,0
+Bethlehem,State Supplement,9
+Bethlehem,TFA,0
+Bloomfield,CADAP,19
+Bloomfield,CHCPE,69
+Bloomfield,CHIP,193
+Bloomfield,Medicaid,"5,999"
+Bloomfield,MSP,"1,713"
+Bloomfield,SAGA,74
+Bloomfield,SAGA Funeral,16
+Bloomfield,SNAP,"2,913"
+Bloomfield,Social Work Services,14
+Bloomfield,State Funded Medical,10
+Bloomfield,State Supplement,183
+Bloomfield,TFA,205
+Bolton,CADAP,0
+Bolton,CHCPE,0
+Bolton,CHIP,33
+Bolton,Medicaid,631
+Bolton,MSP,156
+Bolton,SAGA,9
+Bolton,SAGA Funeral,0
+Bolton,SNAP,244
+Bolton,Social Work Services,0
+Bolton,State Supplement,17
+Bolton,TFA,5
+Bozrah,CADAP,0
+Bozrah,CHCPE,0
+Bozrah,CHIP,22
+Bozrah,Medicaid,640
+Bozrah,MSP,140
+Bozrah,SAGA,0
+Bozrah,SAGA Funeral,0
+Bozrah,SNAP,302
+Bozrah,Social Work Services,40
+Bozrah,State Funded Medical,0
+Bozrah,State Supplement,34
+Bozrah,TFA,20
+Branford,CADAP,10
+Branford,CHCPE,51
+Branford,CHIP,189
+Branford,ConnTRANS,0
+Branford,Medicaid,"5,555"
+Branford,MSP,"1,575"
+Branford,Refugee Cash,0
+Branford,SAGA,29
+Branford,SAGA Funeral,5
+Branford,SNAP,"2,131"
+Branford,Social Work Services,10
+Branford,State Funded Medical,0
+Branford,State Supplement,108
+Branford,TFA,113
+Bridgeport,CADAP,262
+Bridgeport,CHCPE,186
+Bridgeport,CHIP,"1,917"
+Bridgeport,Medicaid,"82,024"
+Bridgeport,MSP,"11,265"
+Bridgeport,Refugee Cash,10
+Bridgeport,SAGA,877
+Bridgeport,SAGA Funeral,117
+Bridgeport,SNAP,"46,149"
+Bridgeport,Social Work Services,156
+Bridgeport,State Funded Medical,38
+Bridgeport,State Medical,0
+Bridgeport,State Supplement,"1,096"
+Bridgeport,TFA,"3,153"
+Bridgewater,CHCPE,0
+Bridgewater,CHIP,14
+Bridgewater,Medicaid,144
+Bridgewater,MSP,43
+Bridgewater,SAGA,0
+Bridgewater,SNAP,35
+Bridgewater,TFA,0
+Bristol,CADAP,21
+Bristol,CHCPE,156
+Bristol,CHIP,630
+Bristol,Medicaid,"20,237"
+Bristol,MSP,"4,640"
+Bristol,SAGA,202
+Bristol,SAGA Funeral,62
+Bristol,SNAP,"11,128"
+Bristol,Social Work Services,141
+Bristol,State Funded Medical,13
+Bristol,State Supplement,227
+Bristol,TFA,"1,302"
+Brookfield,CADAP,0
+Brookfield,CHCPE,34
+Brookfield,CHIP,195
+Brookfield,Medicaid,"2,392"
+Brookfield,MSP,480
+Brookfield,SAGA,13
+Brookfield,SAGA Funeral,0
+Brookfield,SNAP,666
+Brookfield,Social Work Services,0
+Brookfield,State Funded Medical,6
+Brookfield,State Supplement,19
+Brookfield,TFA,41
+Brooklyn,CADAP,0
+Brooklyn,CHCPE,9
+Brooklyn,CHIP,71
+Brooklyn,Medicaid,"2,195"
+Brooklyn,MSP,584
+Brooklyn,SAGA,21
+Brooklyn,SAGA Funeral,0
+Brooklyn,SNAP,995
+Brooklyn,Social Work Services,229
+Brooklyn,State Funded Medical,0
+Brooklyn,State Supplement,68
+Brooklyn,TFA,97
+Burlington,CADAP,0
+Burlington,CHCPE,8
+Burlington,CHIP,21
+Burlington,Medicaid,886
+Burlington,MSP,201
+Burlington,SAGA,0
+Burlington,SNAP,207
+Burlington,State Funded Medical,0
+Burlington,State Supplement,18
+Burlington,TFA,12
+Canaan,CADAP,0
+Canaan,CHCPE,5
+Canaan,CHIP,47
+Canaan,Medicaid,983
+Canaan,MSP,296
+Canaan,SAGA,0
+Canaan,SNAP,276
+Canaan,Social Work Services,0
+Canaan,State Supplement,7
+Canaan,TFA,11
+Canterbury,CADAP,0
+Canterbury,CHCPE,5
+Canterbury,CHIP,52
+Canterbury,Medicaid,"1,084"
+Canterbury,MSP,246
+Canterbury,SAGA,5
+Canterbury,SAGA Funeral,0
+Canterbury,SNAP,422
+Canterbury,Social Work Services,14
+Canterbury,State Funded Medical,0
+Canterbury,State Supplement,11
+Canterbury,TFA,18
+Canton,CADAP,0
+Canton,CHCPE,21
+Canton,CHIP,77
+Canton,Medicaid,"1,313"
+Canton,MSP,456
+Canton,SAGA,0
+Canton,SAGA Funeral,0
+Canton,SNAP,354
+Canton,Social Work Services,0
+Canton,State Funded Medical,0
+Canton,State Supplement,21
+Canton,TFA,19
+Chaplin,CHCPE,0
+Chaplin,CHIP,18
+Chaplin,Medicaid,623
+Chaplin,MSP,123
+Chaplin,SAGA,7
+Chaplin,SAGA Funeral,0
+Chaplin,SNAP,308
+Chaplin,Social Work Services,51
+Chaplin,State Supplement,0
+Chaplin,TFA,15
+Cheshire,CADAP,5
+Cheshire,CHCPE,38
+Cheshire,CHIP,154
+Cheshire,Medicaid,"3,029"
+Cheshire,MSP,"1,015"
+Cheshire,SAGA,16
+Cheshire,SAGA Funeral,0
+Cheshire,SNAP,836
+Cheshire,Social Work Services,5
+Cheshire,State Funded Medical,9
+Cheshire,State Supplement,152
+Cheshire,TFA,40
+Chester,CHCPE,14
+Chester,CHIP,33
+Chester,Medicaid,627
+Chester,MSP,258
+Chester,SAGA,0
+Chester,SAGA Funeral,0
+Chester,SNAP,126
+Chester,Social Work Services,0
+Chester,State Funded Medical,0
+Chester,State Supplement,42
+Chester,TFA,6
+Clinton,CADAP,0
+Clinton,CHCPE,12
+Clinton,CHIP,107
+Clinton,Medicaid,"2,551"
+Clinton,MSP,680
+Clinton,SAGA,11
+Clinton,SAGA Funeral,0
+Clinton,SNAP,891
+Clinton,Social Work Services,8
+Clinton,State Funded Medical,0
+Clinton,State Supplement,63
+Clinton,TFA,30
+Colchester,CADAP,8
+Colchester,CHCPE,14
+Colchester,CHIP,123
+Colchester,Medicaid,"2,900"
+Colchester,MSP,750
+Colchester,SAGA,18
+Colchester,SAGA Funeral,11
+Colchester,SNAP,"1,115"
+Colchester,Social Work Services,36
+Colchester,State Supplement,94
+Colchester,TFA,70
+Colebrook,CHCPE,0
+Colebrook,CHIP,8
+Colebrook,Medicaid,196
+Colebrook,MSP,37
+Colebrook,SAGA,0
+Colebrook,SNAP,55
+Colebrook,Social Work Services,0
+Colebrook,State Funded Medical,0
+Colebrook,State Supplement,0
+Colebrook,TFA,7
+Columbia,CADAP,0
+Columbia,CHCPE,5
+Columbia,CHIP,24
+Columbia,Medicaid,785
+Columbia,MSP,203
+Columbia,SAGA,0
+Columbia,SAGA Funeral,0
+Columbia,SNAP,268
+Columbia,Social Work Services,75
+Columbia,State Supplement,35
+Columbia,TFA,16
+Cornwall,CHCPE,0
+Cornwall,CHIP,22
+Cornwall,Medicaid,282
+Cornwall,MSP,69
+Cornwall,SNAP,80
+Cornwall,State Supplement,0
+Cornwall,TFA,8
+Coventry,CADAP,0
+Coventry,CHCPE,14
+Coventry,CHIP,111
+Coventry,Medicaid,"1,986"
+Coventry,MSP,433
+Coventry,SAGA,16
+Coventry,SAGA Funeral,0
+Coventry,SNAP,764
+Coventry,Social Work Services,206
+Coventry,State Funded Medical,0
+Coventry,State Supplement,45
+Coventry,TFA,60
+Cromwell,CADAP,0
+Cromwell,CHCPE,24
+Cromwell,CHIP,98
+Cromwell,Medicaid,"2,315"
+Cromwell,MSP,785
+Cromwell,SAGA,17
+Cromwell,SAGA Funeral,8
+Cromwell,SNAP,910
+Cromwell,Social Work Services,10
+Cromwell,State Funded Medical,7
+Cromwell,State Supplement,59
+Cromwell,TFA,41
+Danbury,CADAP,55
+Danbury,CHCPE,123
+Danbury,CHIP,"1,307"
+Danbury,Medicaid,"25,886"
+Danbury,MSP,"3,920"
+Danbury,Refugee Cash,0
+Danbury,SAGA,213
+Danbury,SAGA Funeral,26
+Danbury,SNAP,"8,801"
+Danbury,Social Work Services,27
+Danbury,State Funded Medical,21
+Danbury,State Medical,0
+Danbury,State Supplement,206
+Danbury,TFA,390
+Darien,CHCPE,0
+Darien,CHIP,74
+Darien,Medicaid,"1,233"
+Darien,MSP,199
+Darien,SAGA,7
+Darien,SAGA Funeral,0
+Darien,SNAP,272
+Darien,Social Work Services,0
+Darien,State Funded Medical,6
+Darien,State Supplement,12
+Darien,TFA,12
+Deep River,CHCPE,10
+Deep River,CHIP,53
+Deep River,Medicaid,861
+Deep River,MSP,246
+Deep River,SAGA,9
+Deep River,SNAP,253
+Deep River,Social Work Services,0
+Deep River,State Funded Medical,0
+Deep River,State Supplement,41
+Deep River,TFA,13
+Derby,CADAP,11
+Derby,CHCPE,18
+Derby,CHIP,128
+Derby,ConnTRANS,0
+Derby,Medicaid,"4,788"
+Derby,MSP,914
+Derby,SAGA,29
+Derby,SAGA Funeral,0
+Derby,SNAP,"2,440"
+Derby,Social Work Services,0
+Derby,State Funded Medical,0
+Derby,State Supplement,56
+Derby,TFA,160
+Durham,CHCPE,6
+Durham,CHIP,33
+Durham,Medicaid,732
+Durham,MSP,198
+Durham,SAGA,0
+Durham,SAGA Funeral,0
+Durham,SNAP,205
+Durham,Social Work Services,5
+Durham,State Funded Medical,7
+Durham,State Supplement,19
+Durham,TFA,10
+Eastford,CHCPE,0
+Eastford,CHIP,20
+Eastford,Medicaid,247
+Eastford,MSP,80
+Eastford,SAGA,0
+Eastford,SNAP,99
+Eastford,Social Work Services,0
+Eastford,State Supplement,0
+East Granby,CADAP,0
+East Granby,CHCPE,8
+East Granby,CHIP,17
+East Granby,Medicaid,647
+East Granby,MSP,149
+East Granby,SAGA,0
+East Granby,SAGA Funeral,0
+East Granby,SNAP,192
+East Granby,Social Work Services,0
+East Granby,State Funded Medical,0
+East Granby,State Supplement,6
+East Granby,TFA,7
+East Haddam,CADAP,0
+East Haddam,CHCPE,13
+East Haddam,CHIP,60
+East Haddam,Medicaid,"1,273"
+East Haddam,MSP,352
+East Haddam,SAGA,8
+East Haddam,SNAP,397
+East Haddam,Social Work Services,0
+East Haddam,State Funded Medical,0
+East Haddam,State Supplement,33
+East Haddam,TFA,29
+East Hampton,CADAP,0
+East Hampton,CHCPE,14
+East Hampton,CHIP,80
+East Hampton,Medicaid,"2,017"
+East Hampton,MSP,522
+East Hampton,SAGA,14
+East Hampton,SAGA Funeral,0
+East Hampton,SNAP,724
+East Hampton,Social Work Services,9
+East Hampton,State Funded Medical,0
+East Hampton,State Supplement,79
+East Hampton,TFA,66
+East Hartford,CADAP,64
+East Hartford,CHCPE,83
+East Hartford,CHIP,632
+East Hartford,Medicaid,"24,130"
+East Hartford,MSP,"4,108"
+East Hartford,SAGA,349
+East Hartford,SAGA Funeral,49
+East Hartford,SNAP,"14,894"
+East Hartford,Social Work Services,52
+East Hartford,State Funded Medical,14
+East Hartford,State Supplement,421
+East Hartford,TFA,"1,243"
+East Haven,CADAP,17
+East Haven,CHCPE,82
+East Haven,CHIP,311
+East Haven,Medicaid,"8,732"
+East Haven,MSP,"2,259"
+East Haven,Refugee Cash,0
+East Haven,SAGA,93
+East Haven,SAGA Funeral,0
+East Haven,SNAP,"4,084"
+East Haven,Social Work Services,10
+East Haven,State Funded Medical,10
+East Haven,State Supplement,202
+East Haven,TFA,330
+East Lyme,CADAP,6
+East Lyme,CHCPE,20
+East Lyme,CHIP,133
+East Lyme,Medicaid,"2,762"
+East Lyme,MSP,763
+East Lyme,SAGA,25
+East Lyme,SAGA Funeral,8
+East Lyme,SNAP,972
+East Lyme,Social Work Services,10
+East Lyme,State Funded Medical,5
+East Lyme,State Supplement,42
+East Lyme,TFA,43
+Easton,CHCPE,5
+Easton,CHIP,55
+Easton,Medicaid,654
+Easton,MSP,117
+Easton,SAGA,5
+Easton,SNAP,64
+Easton,Social Work Services,0
+Easton,State Funded Medical,0
+Easton,State Medical,0
+Easton,State Supplement,7
+Easton,TFA,0
+East Windsor,CADAP,0
+East Windsor,CHCPE,20
+East Windsor,CHIP,78
+East Windsor,Medicaid,"2,959"
+East Windsor,MSP,772
+East Windsor,SAGA,23
+East Windsor,SAGA Funeral,7
+East Windsor,SNAP,"1,398"
+East Windsor,Social Work Services,6
+East Windsor,State Funded Medical,0
+East Windsor,State Supplement,68
+East Windsor,TFA,87
+Ellington,CADAP,0
+Ellington,CHCPE,17
+Ellington,CHIP,117
+Ellington,Medicaid,"1,934"
+Ellington,MSP,489
+Ellington,SAGA,20
+Ellington,SAGA Funeral,0
+Ellington,SNAP,683
+Ellington,Social Work Services,5
+Ellington,State Funded Medical,0
+Ellington,State Supplement,35
+Ellington,TFA,46
+Enfield,CADAP,13
+Enfield,CHCPE,52
+Enfield,CHIP,407
+Enfield,Medicaid,"9,596"
+Enfield,MSP,"2,217"
+Enfield,SAGA,92
+Enfield,SAGA Funeral,13
+Enfield,SNAP,"4,684"
+Enfield,Social Work Services,18
+Enfield,State Funded Medical,14
+Enfield,State Supplement,168
+Enfield,TFA,401
+Essex,CADAP,0
+Essex,CHCPE,0
+Essex,CHIP,38
+Essex,Medicaid,793
+Essex,MSP,246
+Essex,SAGA,0
+Essex,SAGA Funeral,0
+Essex,SNAP,204
+Essex,Social Work Services,0
+Essex,State Funded Medical,0
+Essex,State Supplement,63
+Essex,TFA,7
+Fairfield,CADAP,12
+Fairfield,CHCPE,54
+Fairfield,CHIP,387
+Fairfield,Medicaid,"6,934"
+Fairfield,MSP,"1,625"
+Fairfield,SAGA,44
+Fairfield,SAGA Funeral,14
+Fairfield,SNAP,"1,763"
+Fairfield,Social Work Services,21
+Fairfield,State Funded Medical,6
+Fairfield,State Supplement,44
+Fairfield,TFA,69
+Farmington,CADAP,0
+Farmington,CHCPE,49
+Farmington,CHIP,142
+Farmington,Medicaid,"3,562"
+Farmington,MSP,"1,172"
+Farmington,SAGA,23
+Farmington,SAGA Funeral,15
+Farmington,SNAP,"1,094"
+Farmington,Social Work Services,11
+Farmington,State Funded Medical,0
+Farmington,State Supplement,164
+Farmington,TFA,78
+Franklin,CHCPE,0
+Franklin,CHIP,20
+Franklin,Medicaid,288
+Franklin,MSP,109
+Franklin,SAGA,0
+Franklin,SAGA Funeral,0
+Franklin,SNAP,118
+Franklin,Social Work Services,18
+Franklin,State Supplement,12
+Franklin,TFA,10
+Glastonbury,CADAP,0
+Glastonbury,CHCPE,62
+Glastonbury,CHIP,189
+Glastonbury,Medicaid,"3,787"
+Glastonbury,MSP,"1,077"
+Glastonbury,SAGA,27
+Glastonbury,SAGA Funeral,0
+Glastonbury,SNAP,"1,300"
+Glastonbury,Social Work Services,12
+Glastonbury,State Funded Medical,0
+Glastonbury,State Supplement,97
+Glastonbury,TFA,101
+Goshen,CHCPE,0
+Goshen,CHIP,14
+Goshen,Medicaid,425
+Goshen,MSP,99
+Goshen,SAGA,0
+Goshen,SAGA Funeral,0
+Goshen,SNAP,85
+Goshen,State Funded Medical,0
+Goshen,State Supplement,8
+Goshen,TFA,5
+Granby,CADAP,0
+Granby,CHCPE,10
+Granby,CHIP,61
+Granby,Medicaid,"1,228"
+Granby,MSP,330
+Granby,SAGA,0
+Granby,SAGA Funeral,0
+Granby,SNAP,261
+Granby,Social Work Services,5
+Granby,State Funded Medical,0
+Granby,State Supplement,18
+Granby,TFA,18
+Greenwich,CADAP,12
+Greenwich,CHCPE,27
+Greenwich,CHIP,326
+Greenwich,Medicaid,"7,052"
+Greenwich,MSP,"1,426"
+Greenwich,SAGA,29
+Greenwich,SAGA Funeral,6
+Greenwich,SNAP,"1,675"
+Greenwich,Social Work Services,11
+Greenwich,State Funded Medical,0
+Greenwich,State Supplement,109
+Greenwich,TFA,120
+Griswold,CADAP,0
+Griswold,CHCPE,10
+Griswold,CHIP,110
+Griswold,Medicaid,"3,570"
+Griswold,MSP,686
+Griswold,SAGA,40
+Griswold,SAGA Funeral,7
+Griswold,SNAP,"1,858"
+Griswold,Social Work Services,363
+Griswold,State Funded Medical,0
+Griswold,State Supplement,62
+Griswold,TFA,135
+Groton,CADAP,15
+Groton,CHCPE,54
+Groton,CHIP,228
+Groton,Medicaid,"8,311"
+Groton,MSP,"1,723"
+Groton,SAGA,62
+Groton,SAGA Funeral,23
+Groton,SNAP,"4,568"
+Groton,Social Work Services,56
+Groton,State Funded Medical,6
+Groton,State Medical,0
+Groton,State Supplement,172
+Groton,TFA,379
+Guilford,CADAP,0
+Guilford,CHCPE,19
+Guilford,CHIP,126
+Guilford,Medicaid,"2,405"
+Guilford,MSP,758
+Guilford,SAGA,10
+Guilford,SAGA Funeral,0
+Guilford,SNAP,749
+Guilford,Social Work Services,0
+Guilford,State Funded Medical,0
+Guilford,State Supplement,56
+Guilford,TFA,31
+Haddam,CADAP,0
+Haddam,CHCPE,6
+Haddam,CHIP,37
+Haddam,Medicaid,"1,022"
+Haddam,MSP,213
+Haddam,SAGA,0
+Haddam,SAGA Funeral,0
+Haddam,SNAP,296
+Haddam,Social Work Services,0
+Haddam,State Funded Medical,0
+Haddam,State Supplement,25
+Haddam,TFA,12
+Hamden,CADAP,54
+Hamden,CHCPE,135
+Hamden,CHIP,395
+Hamden,Medicaid,"14,769"
+Hamden,MSP,"3,425"
+Hamden,Refugee Cash,0
+Hamden,Repatriation,0
+Hamden,SAGA,166
+Hamden,SAGA Funeral,16
+Hamden,SNAP,"7,157"
+Hamden,Social Work Services,24
+Hamden,State Funded Medical,24
+Hamden,State Medical,0
+Hamden,State Supplement,342
+Hamden,TFA,636
+Hampton,CHCPE,0
+Hampton,CHIP,12
+Hampton,Medicaid,433
+Hampton,MSP,100
+Hampton,SAGA,0
+Hampton,SNAP,179
+Hampton,Social Work Services,24
+Hampton,State Supplement,6
+Hampton,TFA,18
+Hartford,CADAP,199
+Hartford,CHCPE,217
+Hartford,CHIP,"1,196"
+Hartford,Medicaid,"87,463"
+Hartford,MSP,"11,878"
+Hartford,Refugee Cash,14
+Hartford,SAGA,"1,690"
+Hartford,SAGA Funeral,143
+Hartford,SNAP,"62,877"
+Hartford,Social Work Services,281
+Hartford,State Funded Medical,75
+Hartford,State Medical,6
+Hartford,State Supplement,"1,916"
+Hartford,TFA,"6,820"
+Hartland,CHCPE,0
+Hartland,CHIP,14
+Hartland,Medicaid,318
+Hartland,MSP,66
+Hartland,SAGA,0
+Hartland,SNAP,74
+Hartland,State Supplement,15
+Hartland,TFA,0
+Harwinton,CHCPE,10
+Harwinton,CHIP,76
+Harwinton,Medicaid,690
+Harwinton,MSP,210
+Harwinton,SAGA,6
+Harwinton,SAGA Funeral,0
+Harwinton,SNAP,204
+Harwinton,State Funded Medical,0
+Harwinton,State Supplement,24
+Harwinton,TFA,7
+Hebron,CHCPE,8
+Hebron,CHIP,60
+Hebron,Medicaid,"1,093"
+Hebron,MSP,233
+Hebron,SAGA,7
+Hebron,SAGA Funeral,0
+Hebron,SNAP,318
+Hebron,Social Work Services,5
+Hebron,State Funded Medical,5
+Hebron,State Supplement,25
+Hebron,TFA,11
+Kent,CHCPE,5
+Kent,CHIP,45
+Kent,Medicaid,504
+Kent,MSP,147
+Kent,SAGA,0
+Kent,SNAP,155
+Kent,State Supplement,14
+Kent,TFA,0
+Killingly,CADAP,5
+Killingly,CHCPE,33
+Killingly,CHIP,175
+Killingly,Medicaid,"6,141"
+Killingly,MSP,"1,676"
+Killingly,SAGA,87
+Killingly,SAGA Funeral,19
+Killingly,SNAP,"3,237"
+Killingly,Social Work Services,667
+Killingly,State Funded Medical,0
+Killingly,State Supplement,135
+Killingly,TFA,269
+Killingworth,CADAP,0
+Killingworth,CHCPE,7
+Killingworth,CHIP,48
+Killingworth,Medicaid,593
+Killingworth,MSP,222
+Killingworth,Refugee Cash,0
+Killingworth,SAGA,0
+Killingworth,SNAP,168
+Killingworth,Social Work Services,0
+Killingworth,State Funded Medical,0
+Killingworth,State Supplement,8
+Killingworth,TFA,9
+Lebanon,CADAP,0
+Lebanon,CHCPE,6
+Lebanon,CHIP,52
+Lebanon,Medicaid,"1,571"
+Lebanon,MSP,286
+Lebanon,SAGA,15
+Lebanon,SAGA Funeral,5
+Lebanon,SNAP,700
+Lebanon,Social Work Services,118
+Lebanon,State Funded Medical,0
+Lebanon,State Supplement,29
+Lebanon,TFA,26
+Ledyard,CADAP,0
+Ledyard,CHCPE,5
+Ledyard,CHIP,109
+Ledyard,Medicaid,"2,681"
+Ledyard,MSP,434
+Ledyard,SAGA,25
+Ledyard,SAGA Funeral,0
+Ledyard,SNAP,"1,152"
+Ledyard,Social Work Services,241
+Ledyard,State Funded Medical,0
+Ledyard,State Supplement,43
+Ledyard,TFA,92
+Lisbon,CADAP,0
+Lisbon,CHCPE,0
+Lisbon,CHIP,24
+Lisbon,Medicaid,843
+Lisbon,MSP,204
+Lisbon,SAGA,13
+Lisbon,SAGA Funeral,0
+Lisbon,SNAP,348
+Lisbon,Social Work Services,17
+Lisbon,State Supplement,13
+Lisbon,TFA,22
+Litchfield,CHCPE,28
+Litchfield,CHIP,82
+Litchfield,Medicaid,"1,337"
+Litchfield,MSP,485
+Litchfield,SAGA,8
+Litchfield,SAGA Funeral,0
+Litchfield,SNAP,388
+Litchfield,Social Work Services,0
+Litchfield,State Funded Medical,0
+Litchfield,State Supplement,96
+Litchfield,TFA,22
+Lyme,CHIP,16
+Lyme,Medicaid,245
+Lyme,MSP,63
+Lyme,SAGA,0
+Lyme,SNAP,45
+Lyme,State Funded Medical,0
+Lyme,State Supplement,0
+Madison,CADAP,0
+Madison,CHCPE,13
+Madison,CHIP,117
+Madison,Medicaid,"1,629"
+Madison,MSP,548
+Madison,SAGA,7
+Madison,SAGA Funeral,0
+Madison,SNAP,366
+Madison,Social Work Services,0
+Madison,State Funded Medical,0
+Madison,State Supplement,26
+Madison,TFA,13
+Manchester,CADAP,38
+Manchester,CHCPE,92
+Manchester,CHIP,644
+Manchester,ConnTRANS,0
+Manchester,Medicaid,"20,796"
+Manchester,MSP,"3,702"
+Manchester,SAGA,298
+Manchester,SAGA Funeral,37
+Manchester,SNAP,"11,925"
+Manchester,Social Work Services,67
+Manchester,State Funded Medical,15
+Manchester,State Supplement,479
+Manchester,TFA,"1,152"
+Mansfield,CADAP,0
+Mansfield,CHCPE,24
+Mansfield,CHIP,64
+Mansfield,Medicaid,"1,983"
+Mansfield,MSP,521
+Mansfield,SAGA,13
+Mansfield,SAGA Funeral,0
+Mansfield,SNAP,876
+Mansfield,Social Work Services,198
+Mansfield,State Funded Medical,0
+Mansfield,State Supplement,24
+Mansfield,TFA,68
+Marlborough,CADAP,0
+Marlborough,CHCPE,6
+Marlborough,CHIP,50
+Marlborough,Medicaid,779
+Marlborough,MSP,222
+Marlborough,SAGA,5
+Marlborough,SAGA Funeral,0
+Marlborough,SNAP,240
+Marlborough,Social Work Services,5
+Marlborough,State Supplement,20
+Marlborough,TFA,13
+Meriden,CADAP,40
+Meriden,CHCPE,100
+Meriden,CHIP,707
+Meriden,Medicaid,"27,404"
+Meriden,MSP,"5,036"
+Meriden,SAGA,374
+Meriden,SAGA Funeral,24
+Meriden,SNAP,"16,725"
+Meriden,Social Work Services,42
+Meriden,State Funded Medical,21
+Meriden,State Supplement,690
+Meriden,TFA,"1,507"
+Middlebury,CHCPE,16
+Middlebury,CHIP,50
+Middlebury,Medicaid,909
+Middlebury,MSP,328
+Middlebury,SAGA,9
+Middlebury,SAGA Funeral,0
+Middlebury,SNAP,249
+Middlebury,State Funded Medical,0
+Middlebury,State Supplement,19
+Middlebury,TFA,0
+Middlefield,CADAP,0
+Middlefield,CHCPE,0
+Middlefield,CHIP,27
+Middlefield,Medicaid,625
+Middlefield,MSP,150
+Middlefield,SAGA,5
+Middlefield,SNAP,245
+Middlefield,State Supplement,10
+Middlefield,TFA,16
+Middletown,CADAP,34
+Middletown,CHCPE,130
+Middletown,CHIP,381
+Middletown,Medicaid,"14,905"
+Middletown,MSP,"3,367"
+Middletown,SAGA,254
+Middletown,SAGA Funeral,25
+Middletown,SNAP,"8,539"
+Middletown,Social Work Services,43
+Middletown,State Funded Medical,35
+Middletown,State Supplement,345
+Middletown,TFA,606
+Milford,CADAP,20
+Milford,CHCPE,70
+Milford,CHIP,368
+Milford,Medicaid,"8,932"
+Milford,MSP,"2,426"
+Milford,SAGA,68
+Milford,SAGA Funeral,7
+Milford,SNAP,"3,302"
+Milford,Social Work Services,15
+Milford,State Funded Medical,8
+Milford,State Supplement,118
+Milford,TFA,160
+Monroe,CADAP,0
+Monroe,CHCPE,16
+Monroe,CHIP,149
+Monroe,Medicaid,"2,202"
+Monroe,MSP,544
+Monroe,SAGA,6
+Monroe,SAGA Funeral,0
+Monroe,SNAP,524
+Monroe,Social Work Services,0
+Monroe,State Funded Medical,7
+Monroe,State Supplement,32
+Monroe,TFA,12
+Montville,CADAP,0
+Montville,CHCPE,17
+Montville,CHIP,177
+Montville,Medicaid,"4,649"
+Montville,MSP,970
+Montville,SAGA,49
+Montville,SAGA Funeral,14
+Montville,SNAP,"2,037"
+Montville,Social Work Services,60
+Montville,State Funded Medical,0
+Montville,State Supplement,110
+Montville,TFA,121
+Morris,CADAP,0
+Morris,CHCPE,0
+Morris,CHIP,28
+Morris,Medicaid,438
+Morris,MSP,95
+Morris,SAGA,0
+Morris,SNAP,108
+Morris,Social Work Services,0
+Morris,State Funded Medical,0
+Morris,State Supplement,0
+Morris,TFA,11
+Naugatuck,CADAP,22
+Naugatuck,CHCPE,72
+Naugatuck,CHIP,376
+Naugatuck,Medicaid,"10,270"
+Naugatuck,MSP,"2,004"
+Naugatuck,SAGA,61
+Naugatuck,SAGA Funeral,8
+Naugatuck,SNAP,"5,030"
+Naugatuck,Social Work Services,72
+Naugatuck,State Funded Medical,9
+Naugatuck,State Supplement,130
+Naugatuck,TFA,353
+New Britain,CADAP,69
+New Britain,CHCPE,150
+New Britain,CHIP,838
+New Britain,Medicaid,"44,228"
+New Britain,MSP,"7,169"
+New Britain,SAGA,619
+New Britain,SAGA Funeral,71
+New Britain,SNAP,"29,560"
+New Britain,Social Work Services,141
+New Britain,State Funded Medical,26
+New Britain,State Medical,0
+New Britain,State Supplement,791
+New Britain,TFA,"3,996"
+New Canaan,CADAP,0
+New Canaan,CHCPE,8
+New Canaan,CHIP,83
+New Canaan,Medicaid,"1,210"
+New Canaan,MSP,227
+New Canaan,SAGA,10
+New Canaan,SAGA Funeral,0
+New Canaan,SNAP,249
+New Canaan,Social Work Services,0
+New Canaan,State Funded Medical,0
+New Canaan,State Supplement,10
+New Canaan,TFA,30
+New Fairfield,CADAP,0
+New Fairfield,CHCPE,16
+New Fairfield,CHIP,112
+New Fairfield,Medicaid,"1,681"
+New Fairfield,MSP,297
+New Fairfield,SAGA,0
+New Fairfield,SAGA Funeral,0
+New Fairfield,SNAP,347
+New Fairfield,Social Work Services,0
+New Fairfield,State Funded Medical,6
+New Fairfield,State Supplement,0
+New Fairfield,TFA,30
+New Hartford,CADAP,0
+New Hartford,CHCPE,9
+New Hartford,CHIP,70
+New Hartford,Medicaid,955
+New Hartford,MSP,208
+New Hartford,SAGA,8
+New Hartford,SNAP,240
+New Hartford,State Funded Medical,0
+New Hartford,State Supplement,22
+New Hartford,TFA,17
+New Haven,CADAP,191
+New Haven,CHCPE,219
+New Haven,CHIP,"1,072"
+New Haven,ConnTRANS,0
+New Haven,Medicaid,"71,069"
+New Haven,MSP,"9,807"
+New Haven,Refugee Cash,32
+New Haven,SAGA,"1,130"
+New Haven,SAGA Funeral,71
+New Haven,SNAP,"48,089"
+New Haven,Social Work Services,82
+New Haven,State Funded Medical,69
+New Haven,State Medical,0
+New Haven,State Supplement,"1,350"
+New Haven,TFA,"5,347"
+Newington,CADAP,11
+Newington,CHCPE,60
+Newington,CHIP,281
+Newington,Medicaid,"5,915"
+Newington,MSP,"1,965"
+Newington,SAGA,58
+Newington,SAGA Funeral,15
+Newington,SNAP,"2,431"
+Newington,Social Work Services,20
+Newington,State Funded Medical,5
+Newington,State Supplement,112
+Newington,TFA,131
+New London,CADAP,28
+New London,CHCPE,31
+New London,CHIP,222
+New London,Medicaid,"15,123"
+New London,MSP,"2,329"
+New London,Refugee Cash,0
+New London,SAGA,254
+New London,SAGA Funeral,38
+New London,SNAP,"9,760"
+New London,Social Work Services,136
+New London,State Funded Medical,13
+New London,State Medical,0
+New London,State Supplement,408
+New London,TFA,907
+New Milford,CADAP,7
+New Milford,CHCPE,48
+New Milford,CHIP,383
+New Milford,Medicaid,"5,695"
+New Milford,MSP,"1,279"
+New Milford,SAGA,38
+New Milford,SAGA Funeral,8
+New Milford,SNAP,"1,841"
+New Milford,Social Work Services,8
+New Milford,State Funded Medical,15
+New Milford,State Supplement,41
+New Milford,TFA,95
+Newtown,CADAP,0
+Newtown,CHCPE,34
+Newtown,CHIP,223
+Newtown,Medicaid,"3,019"
+Newtown,MSP,700
+Newtown,SAGA,12
+Newtown,SAGA Funeral,5
+Newtown,SNAP,668
+Newtown,Social Work Services,0
+Newtown,State Funded Medical,6
+Newtown,State Supplement,37
+Newtown,TFA,32
+Norfolk,CHCPE,0
+Norfolk,CHIP,24
+Norfolk,Medicaid,284
+Norfolk,MSP,84
+Norfolk,SAGA,0
+Norfolk,SNAP,88
+Norfolk,State Supplement,0
+Norfolk,TFA,7
+North Branford,CADAP,0
+North Branford,CHCPE,28
+North Branford,CHIP,130
+North Branford,Medicaid,"1,888"
+North Branford,MSP,585
+North Branford,SAGA,14
+North Branford,SAGA Funeral,0
+North Branford,SNAP,616
+North Branford,Social Work Services,0
+North Branford,State Funded Medical,0
+North Branford,State Supplement,34
+North Branford,TFA,42
+North Canaan,CHCPE,0
+North Canaan,CHIP,5
+North Canaan,Medicaid,177
+North Canaan,MSP,49
+North Canaan,SNAP,68
+North Canaan,State Funded Medical,0
+North Canaan,State Supplement,0
+North Canaan,TFA,0
+North Haven,CADAP,13
+North Haven,CHCPE,39
+North Haven,CHIP,166
+North Haven,Medicaid,"3,637"
+North Haven,MSP,"1,318"
+North Haven,Refugee Cash,0
+North Haven,SAGA,29
+North Haven,SAGA Funeral,0
+North Haven,SNAP,"1,228"
+North Haven,Social Work Services,0
+North Haven,State Funded Medical,0
+North Haven,State Medical,0
+North Haven,State Supplement,69
+North Haven,TFA,89
+North Stonington,CADAP,0
+North Stonington,CHCPE,0
+North Stonington,CHIP,45
+North Stonington,Medicaid,849
+North Stonington,MSP,185
+North Stonington,SAGA,5
+North Stonington,SNAP,248
+North Stonington,Social Work Services,91
+North Stonington,State Supplement,10
+North Stonington,TFA,11
+Norwalk,CADAP,70
+Norwalk,CHCPE,90
+Norwalk,CHIP,"1,131"
+Norwalk,Medicaid,"24,194"
+Norwalk,MSP,"3,950"
+Norwalk,SAGA,162
+Norwalk,SAGA Funeral,22
+Norwalk,SNAP,"8,540"
+Norwalk,Social Work Services,40
+Norwalk,State Funded Medical,16
+Norwalk,State Supplement,190
+Norwalk,TFA,549
+Norwich,CADAP,31
+Norwich,CHCPE,63
+Norwich,CHIP,394
+Norwich,Medicaid,"19,644"
+Norwich,MSP,"3,560"
+Norwich,SAGA,261
+Norwich,SAGA Funeral,44
+Norwich,SNAP,"12,267"
+Norwich,Social Work Services,425
+Norwich,State Funded Medical,12
+Norwich,State Supplement,481
+Norwich,TFA,"1,047"
+Old Lyme,CADAP,0
+Old Lyme,CHCPE,10
+Old Lyme,CHIP,62
+Old Lyme,Medicaid,929
+Old Lyme,MSP,246
+Old Lyme,SAGA,7
+Old Lyme,SAGA Funeral,0
+Old Lyme,SNAP,278
+Old Lyme,Social Work Services,0
+Old Lyme,State Supplement,26
+Old Lyme,TFA,20
+Old Saybrook,CADAP,0
+Old Saybrook,CHCPE,22
+Old Saybrook,CHIP,83
+Old Saybrook,Medicaid,"1,710"
+Old Saybrook,MSP,553
+Old Saybrook,SAGA,7
+Old Saybrook,SAGA Funeral,0
+Old Saybrook,SNAP,432
+Old Saybrook,Social Work Services,0
+Old Saybrook,State Supplement,26
+Old Saybrook,TFA,12
+Orange,CADAP,0
+Orange,CHCPE,25
+Orange,CHIP,85
+Orange,Medicaid,"1,616"
+Orange,MSP,454
+Orange,SAGA,6
+Orange,SAGA Funeral,0
+Orange,SNAP,412
+Orange,Social Work Services,0
+Orange,State Funded Medical,0
+Orange,State Supplement,33
+Orange,TFA,27
+Out of State,CHCPE,0
+Out of State,CHIP,80
+Out of State,Medicaid,"3,836"
+Out of State,MSP,752
+Out of State,SAGA,31
+Out of State,SNAP,"1,762"
+Out of State,Social Work Services,32
+Out of State,State Funded Medical,7
+Out of State,State Supplement,57
+Out of State,TFA,334
+Oxford,CADAP,0
+Oxford,CHCPE,18
+Oxford,CHIP,75
+Oxford,Medicaid,"1,461"
+Oxford,MSP,363
+Oxford,SAGA,9
+Oxford,SAGA Funeral,0
+Oxford,SNAP,409
+Oxford,Social Work Services,0
+Oxford,State Funded Medical,0
+Oxford,State Supplement,30
+Oxford,TFA,22
+Plainfield,CADAP,0
+Plainfield,CHCPE,16
+Plainfield,CHIP,179
+Plainfield,Medicaid,"5,456"
+Plainfield,MSP,"1,226"
+Plainfield,SAGA,48
+Plainfield,SAGA Funeral,6
+Plainfield,SNAP,"2,807"
+Plainfield,Social Work Services,149
+Plainfield,State Funded Medical,0
+Plainfield,State Supplement,68
+Plainfield,TFA,201
+Plainville,CADAP,12
+Plainville,CHCPE,47
+Plainville,CHIP,221
+Plainville,Medicaid,"4,107"
+Plainville,MSP,"1,349"
+Plainville,SAGA,54
+Plainville,SAGA Funeral,13
+Plainville,SNAP,"1,790"
+Plainville,Social Work Services,17
+Plainville,State Funded Medical,0
+Plainville,State Supplement,98
+Plainville,TFA,124
+Plymouth,CADAP,0
+Plymouth,CHCPE,32
+Plymouth,CHIP,134
+Plymouth,Medicaid,"2,950"
+Plymouth,MSP,797
+Plymouth,SAGA,20
+Plymouth,SAGA Funeral,13
+Plymouth,SNAP,"1,300"
+Plymouth,Social Work Services,8
+Plymouth,State Funded Medical,0
+Plymouth,State Supplement,50
+Plymouth,TFA,93
+Pomfret,CADAP,0
+Pomfret,CHCPE,0
+Pomfret,CHIP,36
+Pomfret,Medicaid,634
+Pomfret,MSP,165
+Pomfret,SAGA,6
+Pomfret,SAGA Funeral,0
+Pomfret,SNAP,233
+Pomfret,Social Work Services,57
+Pomfret,State Supplement,18
+Pomfret,TFA,10
+Portland,CHCPE,15
+Portland,CHIP,79
+Portland,Medicaid,"1,802"
+Portland,Medical,0
+Portland,MSP,443
+Portland,SAGA,14
+Portland,SAGA Funeral,0
+Portland,SNAP,901
+Portland,Social Work Services,0
+Portland,State Funded Medical,0
+Portland,State Supplement,85
+Portland,TFA,52
+Preston,CHCPE,7
+Preston,CHIP,41
+Preston,Medicaid,861
+Preston,MSP,210
+Preston,SAGA,7
+Preston,SAGA Funeral,0
+Preston,SNAP,342
+Preston,Social Work Services,9
+Preston,State Supplement,15
+Preston,TFA,22
+Prospect,CADAP,0
+Prospect,CHCPE,18
+Prospect,CHIP,61
+Prospect,Medicaid,"1,230"
+Prospect,MSP,441
+Prospect,SAGA,12
+Prospect,SNAP,403
+Prospect,Social Work Services,0
+Prospect,State Funded Medical,0
+Prospect,State Supplement,29
+Prospect,TFA,26
+Putnam,CADAP,0
+Putnam,CHCPE,10
+Putnam,CHIP,116
+Putnam,Medicaid,"3,616"
+Putnam,MSP,"1,022"
+Putnam,Refugee Cash,0
+Putnam,SAGA,23
+Putnam,SAGA Funeral,0
+Putnam,SNAP,"1,963"
+Putnam,Social Work Services,92
+Putnam,State Funded Medical,0
+Putnam,State Supplement,58
+Putnam,TFA,170
+Redding,CHCPE,5
+Redding,CHIP,54
+Redding,Medicaid,728
+Redding,MSP,99
+Redding,SAGA,0
+Redding,SAGA Funeral,0
+Redding,SNAP,130
+Redding,Social Work Services,0
+Redding,State Funded Medical,0
+Redding,State Supplement,0
+Redding,TFA,5
+Ridgefield,CADAP,0
+Ridgefield,CHCPE,23
+Ridgefield,CHIP,101
+Ridgefield,Medicaid,"1,800"
+Ridgefield,MSP,467
+Ridgefield,SAGA,6
+Ridgefield,SAGA Funeral,0
+Ridgefield,SNAP,333
+Ridgefield,Social Work Services,0
+Ridgefield,State Funded Medical,5
+Ridgefield,State Supplement,19
+Ridgefield,TFA,9
+Rocky Hill,CADAP,0
+Rocky Hill,CHCPE,43
+Rocky Hill,CHIP,147
+Rocky Hill,Medicaid,"3,073"
+Rocky Hill,MSP,"1,078"
+Rocky Hill,SAGA,36
+Rocky Hill,SAGA Funeral,12
+Rocky Hill,SNAP,"1,008"
+Rocky Hill,Social Work Services,0
+Rocky Hill,State Funded Medical,0
+Rocky Hill,State Supplement,58
+Rocky Hill,TFA,58
+Roxbury,CHCPE,0
+Roxbury,CHIP,24
+Roxbury,Medicaid,247
+Roxbury,MSP,65
+Roxbury,SNAP,55
+Roxbury,State Supplement,6
+Roxbury,TFA,0
+Salem,CHCPE,0
+Salem,CHIP,36
+Salem,Medicaid,623
+Salem,MSP,114
+Salem,SAGA,0
+Salem,SAGA Funeral,0
+Salem,SNAP,235
+Salem,Social Work Services,37
+Salem,State Funded Medical,0
+Salem,State Supplement,13
+Salem,TFA,16
+Salisbury,CADAP,0
+Salisbury,CHCPE,0
+Salisbury,CHIP,24
+Salisbury,Medicaid,580
+Salisbury,MSP,169
+Salisbury,SAGA,0
+Salisbury,SNAP,115
+Salisbury,Social Work Services,0
+Salisbury,State Supplement,11
+Salisbury,TFA,18
+Scotland,CADAP,0
+Scotland,CHCPE,0
+Scotland,CHIP,10
+Scotland,Medicaid,149
+Scotland,MSP,31
+Scotland,SNAP,61
+Scotland,Social Work Services,7
+Scotland,State Supplement,0
+Scotland,TFA,0
+Seymour,CADAP,0
+Seymour,CHCPE,63
+Seymour,CHIP,191
+Seymour,Medicaid,"3,818"
+Seymour,MSP,976
+Seymour,SAGA,19
+Seymour,SAGA Funeral,0
+Seymour,SNAP,"1,466"
+Seymour,Social Work Services,0
+Seymour,State Funded Medical,0
+Seymour,State Supplement,40
+Seymour,TFA,75
+Sharon,CADAP,0
+Sharon,CHCPE,0
+Sharon,CHIP,30
+Sharon,Medicaid,551
+Sharon,MSP,116
+Sharon,SAGA,0
+Sharon,SAGA Funeral,0
+Sharon,SNAP,169
+Sharon,Social Work Services,0
+Sharon,State Funded Medical,0
+Sharon,State Supplement,0
+Sharon,TFA,5
+Shelton,CADAP,20
+Shelton,CHCPE,57
+Shelton,CHIP,370
+Shelton,Medicaid,"7,299"
+Shelton,MSP,"1,901"
+Shelton,SAGA,44
+Shelton,SAGA Funeral,7
+Shelton,SNAP,"2,445"
+Shelton,Social Work Services,0
+Shelton,State Funded Medical,5
+Shelton,State Supplement,56
+Shelton,TFA,137
+Sherman,CHCPE,5
+Sherman,CHIP,38
+Sherman,Medicaid,381
+Sherman,MSP,77
+Sherman,SNAP,74
+Sherman,State Funded Medical,0
+Sherman,TFA,5
+Simsbury,CADAP,0
+Simsbury,CHCPE,31
+Simsbury,CHIP,119
+Simsbury,Medicaid,"2,459"
+Simsbury,MSP,583
+Simsbury,SAGA,19
+Simsbury,SAGA Funeral,12
+Simsbury,SNAP,677
+Simsbury,Social Work Services,12
+Simsbury,State Funded Medical,8
+Simsbury,State Supplement,24
+Simsbury,TFA,30
+Somers,CADAP,0
+Somers,CHCPE,12
+Somers,CHIP,102
+Somers,Medicaid,"1,133"
+Somers,MSP,382
+Somers,SAGA,7
+Somers,SAGA Funeral,0
+Somers,SNAP,464
+Somers,Social Work Services,0
+Somers,State Funded Medical,0
+Somers,State Supplement,25
+Somers,TFA,33
+Southbury,CADAP,0
+Southbury,CHCPE,51
+Southbury,CHIP,100
+Southbury,Medicaid,"2,359"
+Southbury,MSP,"1,231"
+Southbury,SAGA,13
+Southbury,SAGA Funeral,7
+Southbury,SNAP,590
+Southbury,State Funded Medical,0
+Southbury,State Supplement,68
+Southbury,TFA,17
+Southington,CADAP,8
+Southington,CHCPE,90
+Southington,CHIP,323
+Southington,Medicaid,"6,839"
+Southington,MSP,"2,341"
+Southington,SAGA,54
+Southington,SAGA Funeral,16
+Southington,SNAP,"2,491"
+Southington,Social Work Services,20
+Southington,State Funded Medical,0
+Southington,State Supplement,83
+Southington,TFA,181
+South Windsor,CADAP,5
+South Windsor,CHCPE,37
+South Windsor,CHIP,187
+South Windsor,Medicaid,"3,196"
+South Windsor,MSP,"1,035"
+South Windsor,SAGA,40
+South Windsor,SNAP,"1,155"
+South Windsor,Social Work Services,0
+South Windsor,State Funded Medical,0
+South Windsor,State Supplement,82
+South Windsor,TFA,67
+Sprague,CADAP,0
+Sprague,CHCPE,0
+Sprague,CHIP,35
+Sprague,Medicaid,"1,122"
+Sprague,MSP,170
+Sprague,SAGA,8
+Sprague,SAGA Funeral,0
+Sprague,SNAP,591
+Sprague,Social Work Services,34
+Sprague,State Funded Medical,0
+Sprague,State Supplement,15
+Sprague,TFA,33
+Stafford,CADAP,0
+Stafford,CHCPE,23
+Stafford,CHIP,116
+Stafford,Medicaid,"2,682"
+Stafford,MSP,784
+Stafford,SAGA,24
+Stafford,SAGA Funeral,17
+Stafford,SNAP,"1,257"
+Stafford,Social Work Services,36
+Stafford,State Funded Medical,0
+Stafford,State Supplement,22
+Stafford,TFA,97
+Stamford,CADAP,135
+Stamford,CHCPE,111
+Stamford,CHIP,"1,391"
+Stamford,Medicaid,"34,181"
+Stamford,MSP,"5,347"
+Stamford,Refugee Cash,0
+Stamford,SAGA,312
+Stamford,SAGA Funeral,27
+Stamford,SNAP,"12,624"
+Stamford,Social Work Services,46
+Stamford,State Funded Medical,25
+Stamford,State Medical,0
+Stamford,State Supplement,376
+Stamford,TFA,"1,132"
+Sterling,CHCPE,0
+Sterling,CHIP,47
+Sterling,Medicaid,931
+Sterling,MSP,175
+Sterling,SAGA,11
+Sterling,SAGA Funeral,0
+Sterling,SNAP,446
+Sterling,Social Work Services,83
+Sterling,State Supplement,11
+Sterling,TFA,28
+Stonington,CADAP,5
+Stonington,CHCPE,25
+Stonington,CHIP,208
+Stonington,Medicaid,"4,430"
+Stonington,MSP,"1,249"
+Stonington,SAGA,31
+Stonington,SAGA Funeral,6
+Stonington,SNAP,"1,659"
+Stonington,Social Work Services,28
+Stonington,State Funded Medical,0
+Stonington,State Supplement,82
+Stonington,TFA,111
+Stratford,CADAP,35
+Stratford,CHCPE,77
+Stratford,CHIP,669
+Stratford,Medicaid,"14,481"
+Stratford,MSP,"2,778"
+Stratford,SAGA,105
+Stratford,SAGA Funeral,15
+Stratford,SNAP,"5,883"
+Stratford,Social Work Services,29
+Stratford,State Funded Medical,14
+Stratford,State Supplement,165
+Stratford,TFA,335
+Suffield,CADAP,5
+Suffield,CHCPE,22
+Suffield,CHIP,68
+Suffield,Medicaid,"1,612"
+Suffield,MSP,471
+Suffield,SAGA,12
+Suffield,SAGA Funeral,0
+Suffield,SNAP,530
+Suffield,Social Work Services,8
+Suffield,State Funded Medical,0
+Suffield,State Supplement,15
+Suffield,TFA,18
+Thomaston,CHCPE,18
+Thomaston,CHIP,70
+Thomaston,Medicaid,"1,536"
+Thomaston,MSP,483
+Thomaston,SAGA,9
+Thomaston,SAGA Funeral,0
+Thomaston,SNAP,681
+Thomaston,Social Work Services,9
+Thomaston,State Funded Medical,6
+Thomaston,State Supplement,28
+Thomaston,TFA,49
+Thompson,CADAP,6
+Thompson,CHCPE,8
+Thompson,CHIP,86
+Thompson,Medicaid,"2,042"
+Thompson,MSP,573
+Thompson,SAGA,12
+Thompson,SAGA Funeral,0
+Thompson,SNAP,939
+Thompson,Social Work Services,46
+Thompson,State Funded Medical,0
+Thompson,State Supplement,25
+Thompson,TFA,67
+Tolland,CADAP,0
+Tolland,CHCPE,20
+Tolland,CHIP,98
+Tolland,Medicaid,"1,568"
+Tolland,MSP,433
+Tolland,SAGA,15
+Tolland,SAGA Funeral,0
+Tolland,SNAP,474
+Tolland,Social Work Services,11
+Tolland,State Funded Medical,0
+Tolland,State Supplement,22
+Tolland,TFA,20
+Torrington,CADAP,14
+Torrington,CHCPE,69
+Torrington,CHIP,424
+Torrington,Medicaid,"13,431"
+Torrington,MSP,"3,373"
+Torrington,SAGA,150
+Torrington,SAGA Funeral,24
+Torrington,SNAP,"6,787"
+Torrington,Social Work Services,31
+Torrington,State Funded Medical,19
+Torrington,State Medical,0
+Torrington,State Supplement,289
+Torrington,TFA,356
+Trumbull,CADAP,7
+Trumbull,CHCPE,51
+Trumbull,CHIP,299
+Trumbull,Medicaid,"4,871"
+Trumbull,MSP,"1,386"
+Trumbull,SAGA,33
+Trumbull,SAGA Funeral,11
+Trumbull,SNAP,"1,035"
+Trumbull,Social Work Services,26
+Trumbull,State Funded Medical,8
+Trumbull,State Supplement,125
+Trumbull,TFA,36
+Union,CHCPE,0
+Union,CHIP,0
+Union,Medicaid,82
+Union,MSP,18
+Union,SAGA,0
+Union,SNAP,35
+Union,Social Work Services,0
+Union,State Supplement,0
+Unknown,Medicaid,45
+Unknown,MSP,0
+Unknown,SNAP,5
+Unknown,Social Work Services,0
+Vernon,CADAP,15
+Vernon,CHCPE,90
+Vernon,CHIP,249
+Vernon,Medicaid,"9,015"
+Vernon,MSP,"2,190"
+Vernon,SAGA,108
+Vernon,SAGA Funeral,20
+Vernon,SNAP,"5,023"
+Vernon,Social Work Services,25
+Vernon,State Funded Medical,6
+Vernon,State Supplement,210
+Vernon,TFA,446
+Voluntown,CADAP,0
+Voluntown,CHCPE,0
+Voluntown,CHIP,23
+Voluntown,Medicaid,538
+Voluntown,MSP,119
+Voluntown,SAGA,0
+Voluntown,SNAP,223
+Voluntown,Social Work Services,14
+Voluntown,State Funded Medical,0
+Voluntown,State Supplement,0
+Voluntown,TFA,11
+Wallingford,CADAP,13
+Wallingford,CHCPE,64
+Wallingford,CHIP,379
+Wallingford,Medicaid,"8,554"
+Wallingford,MSP,"2,478"
+Wallingford,SAGA,63
+Wallingford,SAGA Funeral,10
+Wallingford,SNAP,"3,083"
+Wallingford,Social Work Services,11
+Wallingford,State Funded Medical,0
+Wallingford,State Medical,0
+Wallingford,State Supplement,218
+Wallingford,TFA,148
+Warren,CHCPE,0
+Warren,CHIP,14
+Warren,Medicaid,175
+Warren,MSP,30
+Warren,SNAP,37
+Warren,TFA,0
+Washington,CADAP,0
+Washington,CHCPE,6
+Washington,CHIP,45
+Washington,Medicaid,499
+Washington,MSP,111
+Washington,SAGA,0
+Washington,SNAP,108
+Washington,TFA,5
+Waterbury,CADAP,105
+Waterbury,CHCPE,239
+Waterbury,CHIP,"1,396"
+Waterbury,ConnTRANS,0
+Waterbury,Medicaid,"71,342"
+Waterbury,MSP,"10,532"
+Waterbury,Refugee Cash,0
+Waterbury,SAGA,860
+Waterbury,SAGA Funeral,67
+Waterbury,SNAP,"46,624"
+Waterbury,Social Work Services,724
+Waterbury,State Funded Medical,64
+Waterbury,State Medical,0
+Waterbury,State Supplement,"1,486"
+Waterbury,TFA,"4,641"
+Waterford,CADAP,5
+Waterford,CHCPE,38
+Waterford,CHIP,134
+Waterford,Medicaid,"3,754"
+Waterford,MSP,"1,133"
+Waterford,SAGA,33
+Waterford,SAGA Funeral,12
+Waterford,SNAP,"1,408"
+Waterford,Social Work Services,41
+Waterford,State Funded Medical,5
+Waterford,State Supplement,83
+Waterford,TFA,50
+Watertown,CADAP,0
+Watertown,CHCPE,53
+Watertown,CHIP,217
+Watertown,Medicaid,"4,331"
+Watertown,MSP,"1,372"
+Watertown,SAGA,21
+Watertown,SAGA Funeral,0
+Watertown,SNAP,"1,602"
+Watertown,Social Work Services,25
+Watertown,State Funded Medical,6
+Watertown,State Supplement,156
+Watertown,TFA,73
+Westbrook,CADAP,0
+Westbrook,CHCPE,11
+Westbrook,CHIP,44
+Westbrook,Medicaid,"1,218"
+Westbrook,MSP,498
+Westbrook,SAGA,13
+Westbrook,SNAP,442
+Westbrook,Social Work Services,7
+Westbrook,State Funded Medical,0
+Westbrook,State Supplement,38
+Westbrook,TFA,0
+West Hartford,CADAP,16
+West Hartford,CHCPE,100
+West Hartford,CHIP,397
+West Hartford,Medicaid,"11,367"
+West Hartford,MSP,"3,063"
+West Hartford,Refugee Cash,0
+West Hartford,SAGA,115
+West Hartford,SAGA Funeral,29
+West Hartford,SNAP,"4,787"
+West Hartford,Social Work Services,51
+West Hartford,State Funded Medical,8
+West Hartford,State Medical,0
+West Hartford,State Supplement,476
+West Hartford,TFA,303
+West Haven,CADAP,69
+West Haven,CHCPE,84
+West Haven,CHIP,614
+West Haven,ConnTRANS,0
+West Haven,Medicaid,"21,100"
+West Haven,MSP,"3,455"
+West Haven,Refugee Cash,0
+West Haven,SAGA,230
+West Haven,SAGA Funeral,21
+West Haven,SNAP,"11,109"
+West Haven,Social Work Services,26
+West Haven,State Funded Medical,18
+West Haven,State Medical,0
+West Haven,State Supplement,251
+West Haven,TFA,897
+Weston,CHCPE,0
+Weston,CHIP,40
+Weston,Medicaid,648
+Weston,MSP,91
+Weston,SAGA,0
+Weston,SNAP,65
+Weston,Social Work Services,0
+Weston,State Supplement,7
+Weston,TFA,0
+Westport,CADAP,0
+Westport,CHCPE,21
+Westport,CHIP,115
+Westport,Medicaid,"1,997"
+Westport,MSP,513
+Westport,SAGA,12
+Westport,SAGA Funeral,0
+Westport,SNAP,493
+Westport,Social Work Services,0
+Westport,State Funded Medical,0
+Westport,State Supplement,37
+Westport,TFA,30
+Wethersfield,CADAP,7
+Wethersfield,CHCPE,57
+Wethersfield,CHIP,258
+Wethersfield,Medicaid,"4,780"
+Wethersfield,MSP,"1,607"
+Wethersfield,SAGA,66
+Wethersfield,SAGA Funeral,10
+Wethersfield,SNAP,"2,251"
+Wethersfield,Social Work Services,14
+Wethersfield,State Funded Medical,8
+Wethersfield,State Supplement,92
+Wethersfield,TFA,113
+Willington,CADAP,0
+Willington,CHCPE,5
+Willington,CHIP,38
+Willington,Medicaid,"1,004"
+Willington,MSP,221
+Willington,SAGA,6
+Willington,SNAP,381
+Willington,Social Work Services,94
+Willington,State Supplement,46
+Willington,TFA,15
+Wilton,CHCPE,17
+Wilton,CHIP,68
+Wilton,Medicaid,"1,450"
+Wilton,MSP,505
+Wilton,SAGA,5
+Wilton,SAGA Funeral,5
+Wilton,SNAP,197
+Wilton,Social Work Services,0
+Wilton,State Funded Medical,0
+Wilton,State Supplement,11
+Wilton,TFA,14
+Winchester,CADAP,0
+Winchester,CHCPE,19
+Winchester,CHIP,117
+Winchester,Medicaid,"3,638"
+Winchester,MSP,990
+Winchester,SAGA,35
+Winchester,SAGA Funeral,0
+Winchester,SNAP,"1,737"
+Winchester,Social Work Services,9
+Winchester,State Funded Medical,10
+Winchester,State Supplement,84
+Winchester,TFA,103
+Windham,CADAP,20
+Windham,CHCPE,39
+Windham,CHIP,222
+Windham,Medicaid,"12,599"
+Windham,MSP,"2,187"
+Windham,SAGA,214
+Windham,SAGA Funeral,20
+Windham,SNAP,"8,582"
+Windham,Social Work Services,460
+Windham,State Funded Medical,8
+Windham,State Medical,0
+Windham,State Supplement,190
+Windham,TFA,849
+Windsor,CADAP,18
+Windsor,CHCPE,34
+Windsor,CHIP,348
+Windsor,Medicaid,"8,847"
+Windsor,MSP,"1,630"
+Windsor,SAGA,153
+Windsor,SAGA Funeral,13
+Windsor,SNAP,"4,430"
+Windsor,Social Work Services,25
+Windsor,State Funded Medical,7
+Windsor,State Supplement,207
+Windsor,TFA,405
+Windsor Locks,CADAP,5
+Windsor Locks,CHCPE,16
+Windsor Locks,CHIP,131
+Windsor Locks,Medicaid,"3,275"
+Windsor Locks,MSP,685
+Windsor Locks,SAGA,36
+Windsor Locks,SAGA Funeral,0
+Windsor Locks,SNAP,"1,517"
+Windsor Locks,Social Work Services,5
+Windsor Locks,State Funded Medical,0
+Windsor Locks,State Supplement,42
+Windsor Locks,TFA,78
+Wolcott,CADAP,0
+Wolcott,CHCPE,48
+Wolcott,CHIP,140
+Wolcott,Medicaid,"2,999"
+Wolcott,MSP,994
+Wolcott,SAGA,20
+Wolcott,SAGA Funeral,0
+Wolcott,SNAP,"1,074"
+Wolcott,Social Work Services,14
+Wolcott,State Funded Medical,0
+Wolcott,State Supplement,60
+Wolcott,TFA,31
+Woodbridge,CHCPE,13
+Woodbridge,CHIP,57
+Woodbridge,Medicaid,"1,035"
+Woodbridge,MSP,253
+Woodbridge,SAGA,0
+Woodbridge,SAGA Funeral,0
+Woodbridge,SNAP,192
+Woodbridge,Social Work Services,0
+Woodbridge,State Funded Medical,0
+Woodbridge,State Supplement,13
+Woodbridge,TFA,13
+Woodbury,CHCPE,23
+Woodbury,CHIP,69
+Woodbury,Medicaid,"1,316"
+Woodbury,MSP,405
+Woodbury,SAGA,8
+Woodbury,SNAP,338
+Woodbury,Social Work Services,0
+Woodbury,State Supplement,30
+Woodbury,TFA,12
+Woodstock,CADAP,0
+Woodstock,CHCPE,0
+Woodstock,CHIP,79
+Woodstock,Medicaid,"1,213"
+Woodstock,MSP,270
+Woodstock,SAGA,0
+Woodstock,SNAP,345
+Woodstock,Social Work Services,12
+Woodstock,State Funded Medical,0
+Woodstock,State Supplement,9
+Woodstock,TFA,11

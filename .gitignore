@@ -1,7 +1,7 @@
-data/
+data/Y2018/
+data/Y2019/
 *.seed
 *.log
-*.xlsx
 *.dat
 *.out
 *.pid
