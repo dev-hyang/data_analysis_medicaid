@@ -1,4 +1,4 @@
-# Demographic Data Analysis of Physician Fee Schedule on Insurance
+# Project Outline for Demographic Data Analysis of Physician Fee Schedule on Insurance
 ## Objective
 Our vision is to set up anchor prices for physicians or patients’ reference on different medical procedure services around the demographic area in the United States. First, we have collected all data sources to compute the state level anchor procedure service prices for 51 states in the United States. Later on, we have discussed two special cases on state Indiana and Connecticut on the county level anchor prices.
 In order to compute the anchor prices, we will need below data files: 
@@ -35,7 +35,7 @@ Blanks: usually we will ignore/filter out rows with blank value, such as “UNKN
 - Merge data
 As our goal is to compute the demographic anchor PFS prices, we need to combine all population data file, Medicaid enrollment data file, Medicare enrollment data file, Medicaid PFS file, and Medicare PFS export report. 
 
-## output
+## Output
 To compute the anchor procedure service price, we will take use the rates of Medicaid, Medicare, Private insurance enrollment rate in per state/county, and their physician fee schedule based on the HCPCT code/Procedure code.
 The Process is below:
 First, compute % of "STATE_MEDICAID_PRCENT" = Medicaid enrollment / state-level population, % of "STATE_MEDICARE_PRCENT" = # of Medicare beneficiaries / state-level population. 
@@ -45,7 +45,7 @@ Second, compute $ Anchored Physician Fee Amount for per procedure code = % Medic
 In the /output folder, you could find the resulted fee tables.
 
 
-## conlusion
+## Conlusion
 Through this project, we can get that different counties could have their own customized physician fee schedule based on demographic factor, poverty rate (Medicaid enrollment), aging factor (Medicare enrollment),  etc. The county-level fee shcedule could even vary from dollars to thousands of dollars. We conclude that the state-level weighted fee schedule could also be used to guide some newly Medicaid/Medicare expanded states as they have little or no information about Medicaid/Medicare information.
 
 
