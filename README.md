@@ -50,6 +50,6 @@ Through this project, we can get that different counties could have their own cu
 
 
 ## Challenge and future
-1, How to find valid, correct and uniformed formatted data is the key? But how could you get such data as each state has its own database or API? 
-2, How to combine these data together with other statistics data, like form CMS, Census bureau. Both data format and content is different, we need to figure out the relationship (primary+foreign key) in each data file.
-3, How to collect the actual expenditure of the Medicaid, Medicare, and Private insurance in the real patient-visit cases? As our data is based on the CMS or each state’s release fee schedule, what is the real cost is unknown during the visit? These could be more valuable if possible.
+- 1, How to find valid, correct and uniformed formatted data is the key? But how could you get such data as each state has its own database or API? 
+- 2, How to combine these data together with other statistics data, like form CMS, Census bureau. Both data format and content is different, we need to figure out the relationship (primary+foreign key) in each data file.
+- 3, How to collect the actual expenditure of the Medicaid, Medicare, and Private insurance in the real patient-visit cases? As our data is based on the CMS or each state’s release fee schedule, what is the real cost is unknown during the visit? These could be more valuable if possible.
